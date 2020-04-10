@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Test App</string>
+    <string name="btn_Caption">Search</string>
+    <string name="txtEntryHint">Enter Search Text</string>
+</resources>
